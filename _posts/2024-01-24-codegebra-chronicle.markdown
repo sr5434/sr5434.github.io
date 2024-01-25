@@ -4,7 +4,7 @@ title:  "The Codegebra Chronicles"
 date:   2024-01-24 20:00:00 +0000
 categories: jekyll update
 ---
-Codegebra is my flagship project. It was also probably the hardest to make. This is how it started.
+Codegebra is my flagship project. It was also probably the hardest to make. This is how I made the first version.
 ## October 5th, 2023 - A Question
 On this day, a random question popped in my head. "How does Wolfram|Alpha work?" I pulled out my phone and Googled that very question. However, many of them were talking about the Newton Raphson method, which I couldn't understand very well. Others talked about how Matlab uses LAPACK, which will be an important part of the story later on.
 ## October 6th - 21st 2023 - Building v1

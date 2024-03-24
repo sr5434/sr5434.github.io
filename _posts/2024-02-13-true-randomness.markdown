@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Perfectly Simulating Randomness Using a Quantum Computer."
+title:  "Perfectly Simulating Randomness Using a Quantum Computer"
 date:   2024-02-13 12:00:00 +0000
 categories: jekyll update
 --- 

@@ -21,8 +21,8 @@
 title: Samir's Corner
 email: s98775763@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I like to code stuff like AI, websites/apps, and other cool stuff.
-baseurl: "" # the subpath of your site, e.g. /blog
+  I like to code stuff like AI, websites/apps, and other cool stuff. I also love Philly sports.
+baseurl: "" # the subpath of your site, e.g. /blog 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sr5434
 instagram_username: samirr2873

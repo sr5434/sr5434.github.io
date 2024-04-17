@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coding a Self-driving Car with Behavior Cloning"
-date:   2024-04-16 12:00:00 +0000
+date:   2024-04-17 12:00:00 +0000
 categories: jekyll update
 ---
 Recently, I became interested in coding a self-driving car, but wasn't sure where to start. I went online and looked at how other people had done it, when I stumbled across a blog post by Max Deutsch about how he went about implementing it. I saw that he was using behavior cloning, and I thought, "I could surely do that with Keras." I remember having read the [behavior cloning paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) a few years ago, but I couldn't remember many details from it. So, I reread the paper and went about implementing it.
